@@ -3,7 +3,7 @@ layout: home
 avatar: yes
 ---
 
-**Welcome to My [homepage](mingyueli.com) ! **
+**Welcome to My homepage ! **
 
 您所看到的是本人的个人网站，搭建于2016年12月，里面记录了一些IT相关的知识，同时也夹杂着生活的点滴，借此遇上一些志同道合的人！
 
@@ -13,8 +13,9 @@ avatar: yes
 
 严于律己宽于待人
 
-> Stop talking  Just do it  
 
 > Everything is a file and you are my file
 
-> Everything is a object and you are my object
+>> Everything is a object and you are my object
+
+>>> Stop talking  Just do it  
