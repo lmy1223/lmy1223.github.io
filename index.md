@@ -14,8 +14,10 @@ avatar: yes
 严于律己宽于待人
 
 
-> Everything is a file and you are my file
+* **Everything is a file and you are my file**
+&nbsp; 
 
->> Everything is a object and you are my object
+* **Everything is a object and you are my object**
+&nbsp; 
 
->>> Stop talking  Just do it  
+* **Stop talking  Just do it  **
