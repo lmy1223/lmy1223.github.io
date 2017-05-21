@@ -1,2 +1,4 @@
 markdown: rdiscount 
 
+
+theme: jekyll-theme-hacker
