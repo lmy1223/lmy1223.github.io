@@ -2,3 +2,5 @@ markdown: rdiscount
 
 
 theme: jekyll-theme-hacker
+disqus_shortname: tougetu
+comment_provider: disqus
